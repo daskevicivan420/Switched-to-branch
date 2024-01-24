@@ -1,0 +1,4 @@
+echo "Switched to branch: $branch\n";
+        } else {
+            echo "Branch '$branch' does not exist\n";
+        }
